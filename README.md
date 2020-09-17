@@ -1,4 +1,4 @@
-### ♥ You've gotta <b>Dance</b> like there's nobody watching, <b>Love</b> like you'll never be hurt ♥
+### ♥ You've gotta *Dance* like there's nobody watching, *Love* like you'll never be hurt ♥
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eladyaniv01&count_private=true&show_icons=true&theme=merko" />
