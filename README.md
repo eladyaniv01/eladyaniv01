@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eladyaniv01&count_private=true&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladyaniv01&theme=merko&show_icons=true" />
+</a>
+ ♥ You've gotta <b>Dance</b> like there's nobody watching, <b>Love</b> like you'll never be hurt ♥
+ 
+
 <!--
 **eladyaniv01/eladyaniv01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
