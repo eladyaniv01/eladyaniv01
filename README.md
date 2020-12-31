@@ -1,10 +1,17 @@
 ### ♥ You've gotta *Dance* like there's nobody watching, *Love* like you'll never be hurt ♥
-<div class="flex">
+<div class="flex-row">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eladyaniv01&count_private=true&show_icons=true" />
 </a>
+ </div>
+ <div>
+  <ul aligh="center">
+  <li><b> 10% Luck</b></li>
+  <li><b> 20% Skill</b></li>
+  <li><b> 70% Concentrated power of will</b></li>
+</ul>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladyaniv01&show_icons=true&hide=HTML" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladyaniv01&show_icons=true&hide=HTML" />
 </a>
 </div>
 
